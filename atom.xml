@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
+  <title><![CDATA[Warrior Wealth]]></title>
   <link href="http://warriorwealth.github.io/atom.xml" rel="self"/>
   <link href="http://warriorwealth.github.io/"/>
-  <updated>2017-06-22T16:12:05-07:00</updated>
+  <updated>2017-06-22T16:14:12-07:00</updated>
   <id>http://warriorwealth.github.io/</id>
   <author>
-    <name><![CDATA[Your Name]]></name>
+    <name><![CDATA[Ken Yu]]></name>
     
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>

@@ -3,11 +3,10 @@
 # ----------------------- #
 
 url: http://warriorwealth.github.io
-title: My Octopress Blog
-subtitle: A blogging framework for hackers.
-author: Your Name
-simple_search: https://www.google.com/search
-description:
+title: Warrior Wealth
+subtitle: Growing our wealth by systematically extracting money from the markets.
+author: Ken Yu
+description: A blog dedicated to helping our warriors extract money from the stock market.
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in

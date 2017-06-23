@@ -4,7 +4,7 @@
 
 url: http://warriorwealth.github.io
 title: Warrior Wealth
-subtitle: Growing our wealth by systematically extracting money from the markets.
+subtitle: Consistently preserve and grow your capital over time.
 author: Ken Yu
 description: A blog dedicated to helping our warriors extract money from the stock market.
 
@@ -69,7 +69,7 @@ github_show_profile_link: true
 github_skip_forks: true
 
 # Twitter
-twitter_user:
+twitter_user: warrior_wealth
 twitter_tweet_button: true
 
 # Google +1

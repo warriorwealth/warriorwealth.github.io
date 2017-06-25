@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "portfolio"
+title: "Portfolio"
 date: 2017-06-22 16:16
 comments: true
 sharing: true

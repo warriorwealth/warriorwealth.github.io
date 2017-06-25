@@ -53,22 +53,5 @@ Cheers!
 Your warrior companion, <br/>
 Ken Yu
 
-
-
-So it is with my pleasure to share with you *Warrior Wealth* - a blog dedicated to helping you do exactly this: **grow your net worth.**
-
-In this blog, I'm going to share with you everything that I've learned over the years regarding the stock markets.
-
-I'm going to share with you educational articles around stocks, options, and foreign exchange.
-
-I'm also going to share with you my current investment portfolio with full transparency. You will be able to see all of my ongoing trades, including profits and losses. Feel free to follow along with my holdings as we take advantage of the opportunities that the markets have to offer.
-
-I believe that there is no better time than now to start investing in our wealth. So if you would like to join myself and other warriors in this journey of expanding our wealth, alongside our health, then you won't be disappointed. Warrior Wealth will help you obtain the necessary financial education you need to be able to passively preserve and grow your capital over time. So let us take charge of our lives, conquer this next stepping stone, and ultimately build a legacy of health and wealth.
-
-Cheers!
-
-Your warrior companion,<br/>
-Ken Yu
-
 <div class="signature-wrapper">
 </div>

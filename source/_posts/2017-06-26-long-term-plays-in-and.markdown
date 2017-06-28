@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Long Term Plays in  and"
+title: "Long Term Plays in $GS and $DIS"
 date: 2017-06-26 20:34:12 -0700
 comments: true
 categories: [gs, dis]

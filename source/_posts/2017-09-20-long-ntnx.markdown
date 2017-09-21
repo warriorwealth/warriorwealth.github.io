@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Long NTNX"
+date: 2017-09-20 20:36:25 -0700
+comments: true
+categories: 
+---
+
+Let's get long $NTNX:
+
+[![NTNX - 2017-09-20](/images/blog/20170920/ntnx.png)](/images/blog/20170920/ntnx.png)
+
+####Reasons
+
+1. High Short Interest
+2. 200MA Recapture
+3. Cheap OOM call options

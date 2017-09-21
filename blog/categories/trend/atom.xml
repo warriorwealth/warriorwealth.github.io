@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Warrior Wealth]]></title>
-  <link href="http://warriorwealth.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: trend | Warrior Wealth]]></title>
+  <link href="http://warriorwealth.github.io/blog/categories/trend/atom.xml" rel="self"/>
   <link href="http://warriorwealth.github.io/"/>
   <updated>2017-09-20T21:07:55-07:00</updated>
   <id>http://warriorwealth.github.io/</id>
@@ -22,7 +22,7 @@
 
 <h2>$NTNX</h2>
 
-<p><a href="http://warriorwealth.github.io/images/blog/20170920/ntnx.png"><img src="http://warriorwealth.github.io/images/blog/20170920/ntnx.png" alt="NTNX - 2017-09-20" /></a></p>
+<p><a href="/images/blog/20170920/ntnx.png"><img src="/images/blog/20170920/ntnx.png" alt="NTNX - 2017-09-20" /></a></p>
 
 <ul>
 <li>High Short Interest (Short Percent of Float: 43.19%)</li>
@@ -33,7 +33,7 @@
 
 <h2>$AMD</h2>
 
-<p><a href="http://warriorwealth.github.io/images/blog/20170920/amd.png"><img src="http://warriorwealth.github.io/images/blog/20170920/amd.png" alt="AMD - 2017-09-20" /></a></p>
+<p><a href="/images/blog/20170920/amd.png"><img src="/images/blog/20170920/amd.png" alt="AMD - 2017-09-20" /></a></p>
 
 <ul>
 <li>Relatively High Short Interest  (Short Percent of Float: 17.80%)</li>

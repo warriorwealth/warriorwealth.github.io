@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: trend | Warrior Wealth]]></title>
-  <link href="http://warriorwealth.github.io/blog/categories/trend/atom.xml" rel="self"/>
+  <title><![CDATA[Category: weekly | Warrior Wealth]]></title>
+  <link href="http://warriorwealth.github.io/blog/categories/weekly/atom.xml" rel="self"/>
   <link href="http://warriorwealth.github.io/"/>
   <updated>2017-09-26T15:42:46-07:00</updated>
   <id>http://warriorwealth.github.io/</id>
@@ -30,36 +30,6 @@
 
 <p>Bias: Bullish (Weekly)
 Stop: $46.89</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Long NTNX and AMD]]></title>
-    <link href="http://warriorwealth.github.io/blog/2017/09/20/long-ntnx-amd/"/>
-    <updated>2017-09-20T20:36:25-07:00</updated>
-    <id>http://warriorwealth.github.io/blog/2017/09/20/long-ntnx-amd</id>
-    <content type="html"><![CDATA[<p>Looking at a couple of tickers tonight to get long tomorrow.</p>
-
-<h2>$NTNX</h2>
-
-<p><a href="/images/blog/20170920/ntnx.png"><img src="/images/blog/20170920/ntnx.png" alt="NTNX - 2017-09-20" /></a></p>
-
-<ul>
-<li>High Short Interest (Short Percent of Float: 43.19%)</li>
-<li>200MA Recapture, potential trend change</li>
-<li>Cheap OOM call options</li>
-</ul>
-
-
-<h2>$AMD</h2>
-
-<p><a href="/images/blog/20170920/amd.png"><img src="/images/blog/20170920/amd.png" alt="AMD - 2017-09-20" /></a></p>
-
-<ul>
-<li>Relatively High Short Interest  (Short Percent of Float: 17.80%)</li>
-<li>200MA Hold, trending upwards</li>
-</ul>
-
 ]]></content>
   </entry>
   

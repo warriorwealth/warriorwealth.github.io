@@ -1,0 +1,15 @@
+---
+layout: post
+title: "AXON Axed"
+date: 2017-09-26 16:00:10 -0700
+comments: true
+categories: []
+---
+
+$AXON has been of high interest today, due to failed drug trial. Noise aside, let's take a look at the daily chart, and what it means for the stock going forward.
+
+[![AXON Daily - 2017-09-26](/images/blog/20170926/axon_daily.png)](/images/blog/20170926/axon_daily.png)
+
+After a failed drug trial, the stock is trading significantly lower. At this point, people tend to ask, "Should I buy at such a discounted price?"
+
+The answer to that question, at least the answer for trend traders, is absolutely not. Trend followers love to be long stocks that are above the 200MA, and short stocks that are below the 200MA. If anything, trend traders would be looking to short this stock. However, given how far away from the 200MA it is, and given how recent the news was, we will not be shorting this stock. For those that are currently long this stock, understand that there is huge overhead supply above us, and if the stock were to ever turn around, it will take a while for prices to recover, regardless of the current situation.

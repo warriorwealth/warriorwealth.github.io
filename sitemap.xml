@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://warriorwealth.github.io/blog/2017/09/26/mu-earnings-drama/</loc>
+<lastmod>2017-09-26T15:46:59-07:00</lastmod>
+</url>
+<url>
 <loc>http://warriorwealth.github.io/blog/2017/09/26/why-nke-is-a-long-term-buy/</loc>
 <lastmod>2017-09-26T13:13:19-07:00</lastmod>
 </url>
@@ -40,5 +44,8 @@
 </url>
 <url>
 <loc>http://warriorwealth.github.io/blog/categories/weekly/</loc>
+</url>
+<url>
+<loc>http://warriorwealth.github.io/blog/categories/bullish/</loc>
 </url>
 </urlset>

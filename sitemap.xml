@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://warriorwealth.github.io/blog/2017/09/27/veri-buy-whats-going-up/</loc>
+<lastmod>2017-09-27T08:53:30-07:00</lastmod>
+</url>
+<url>
 <loc>http://warriorwealth.github.io/blog/2017/09/26/how-to-become-a-consistently-profitable-trader/</loc>
 <lastmod>2017-09-26T22:57:44-07:00</lastmod>
 </url>
@@ -29,10 +33,10 @@
 <lastmod>2017-09-20T20:36:25-07:00</lastmod>
 </url>
 <url>
-<loc>http://warriorwealth.github.io/archives/</loc>
+<loc>http://warriorwealth.github.io/blog/</loc>
 </url>
 <url>
-<loc>http://warriorwealth.github.io/blog/</loc>
+<loc>http://warriorwealth.github.io/archives/</loc>
 </url>
 <url>
 <loc>http://warriorwealth.github.io/blog/archives/</loc>
@@ -66,5 +70,8 @@
 </url>
 <url>
 <loc>http://warriorwealth.github.io/blog/categories/20ma/</loc>
+</url>
+<url>
+<loc>http://warriorwealth.github.io/blog/categories/trend-trading/</loc>
 </url>
 </urlset>

@@ -3,7 +3,7 @@ layout: post
 title: "AXON Axed"
 date: 2017-09-26 16:00:10 -0700
 comments: true
-categories: []
+categories: [trend, 200MA]
 ---
 
 $AXON has been of high interest today, due to failed drug trial. Noise aside, let's take a look at the daily chart, and what it means for the stock going forward.

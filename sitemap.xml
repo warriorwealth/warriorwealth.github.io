@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://warriorwealth.github.io/blog/2017/09/27/vcel-trending-up/</loc>
+<lastmod>2017-09-27T15:06:01-07:00</lastmod>
+</url>
+<url>
 <loc>http://warriorwealth.github.io/blog/2017/09/27/lite-200ma-bounce/</loc>
 <lastmod>2017-09-27T10:41:52-07:00</lastmod>
 </url>
@@ -88,5 +92,8 @@
 </url>
 <url>
 <loc>http://warriorwealth.github.io/blog/categories/pullback/</loc>
+</url>
+<url>
+<loc>http://warriorwealth.github.io/posts/2/</loc>
 </url>
 </urlset>

@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://warriorwealth.github.io/blog/2017/09/28/blue-breakout-to-fresh-highs/</loc>
+<lastmod>2017-09-28T07:25:15-07:00</lastmod>
+</url>
+<url>
 <loc>http://warriorwealth.github.io/blog/2017/09/27/klac-trending-higher/</loc>
 <lastmod>2017-09-27T15:54:24-07:00</lastmod>
 </url>
@@ -57,10 +61,10 @@
 <lastmod>2017-09-20T20:36:25-07:00</lastmod>
 </url>
 <url>
-<loc>http://warriorwealth.github.io/blog/</loc>
+<loc>http://warriorwealth.github.io/archives/</loc>
 </url>
 <url>
-<loc>http://warriorwealth.github.io/archives/</loc>
+<loc>http://warriorwealth.github.io/blog/</loc>
 </url>
 <url>
 <loc>http://warriorwealth.github.io/blog/archives/</loc>
@@ -100,5 +104,11 @@
 </url>
 <url>
 <loc>http://warriorwealth.github.io/blog/categories/pullback/</loc>
+</url>
+<url>
+<loc>http://warriorwealth.github.io/blog/categories/new-highs/</loc>
+</url>
+<url>
+<loc>http://warriorwealth.github.io/posts/2/</loc>
 </url>
 </urlset>

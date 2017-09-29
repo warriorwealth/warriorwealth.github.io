@@ -4,7 +4,7 @@
   <title><![CDATA[Category: 200ma | Warrior Wealth]]></title>
   <link href="http://warriorwealth.github.io/blog/categories/200ma/atom.xml" rel="self"/>
   <link href="http://warriorwealth.github.io/"/>
-  <updated>2017-09-28T07:37:38-07:00</updated>
+  <updated>2017-09-28T22:35:17-07:00</updated>
   <id>http://warriorwealth.github.io/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Look at BBRY]]></title>
+    <link href="http://warriorwealth.github.io/blog/2017/09/28/a-look-at-bbry/"/>
+    <updated>2017-09-28T22:15:54-07:00</updated>
+    <id>http://warriorwealth.github.io/blog/2017/09/28/a-look-at-bbry</id>
+    <content type="html"><![CDATA[<p>$BBRY has picked up a lot of chatter recently, so let&rsquo;s take a look at the chart of the stock on the daily timeframe.</p>
+
+<p><a href="/images/blog/20170928/bbry_daily.png"><img src="/images/blog/20170928/bbry_daily.png" alt="BBRY Daily - 2017-09-28" /></a></p>
+
+<p>Towards the beginning of the year, $BBRY managed to pierce above the 200MA and trend upwards. In August, prices came back down to tag the 200MA before bouncing higher. While we did not get long this stock at that time, the stock is still a decent candidate to get long right now, with a stop just below the 200MA.</p>
+
+<p>More aggressive traders can place the stop below the 100MA - this allows them to go in with a larger position size, albeit a higher possibility of their getting stopped out should prices come back down.</p>
+
+<p>Should one get long here with a conservative position size, using the 200MA as a reference, the stop would be placed at $8.01.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[FIT - Start of a New Trend]]></title>
@@ -77,36 +94,6 @@
 
 <p>Bias: Bullish (Weekly)<br/>
 Stop: $46.89</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Long NTNX and AMD]]></title>
-    <link href="http://warriorwealth.github.io/blog/2017/09/20/long-ntnx-amd/"/>
-    <updated>2017-09-20T20:36:25-07:00</updated>
-    <id>http://warriorwealth.github.io/blog/2017/09/20/long-ntnx-amd</id>
-    <content type="html"><![CDATA[<p>Looking at a couple of tickers tonight to get long tomorrow.</p>
-
-<h2>$NTNX</h2>
-
-<p><a href="/images/blog/20170920/ntnx.png"><img src="/images/blog/20170920/ntnx.png" alt="NTNX - 2017-09-20" /></a></p>
-
-<ul>
-<li>High Short Interest (Short Percent of Float: 43.19%)</li>
-<li>200MA Recapture, potential trend change</li>
-<li>Cheap OOM call options</li>
-</ul>
-
-
-<h2>$AMD</h2>
-
-<p><a href="/images/blog/20170920/amd.png"><img src="/images/blog/20170920/amd.png" alt="AMD - 2017-09-20" /></a></p>
-
-<ul>
-<li>Relatively High Short Interest  (Short Percent of Float: 17.80%)</li>
-<li>200MA Hold, trending upwards</li>
-</ul>
-
 ]]></content>
   </entry>
   

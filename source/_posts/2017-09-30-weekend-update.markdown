@@ -3,7 +3,7 @@ layout: post
 title: "Weekend Update"
 date: 2017-09-30 16:58:41 -0700
 comments: true
-categories: [trend, spy, iwm, qqq, dia]
+categories: [trend, spy, iwm, qqq, dia, fxi, china, us]
 ---
 
 The market continues to make new highs. Let's take a look at the trend for all of the major market indices, starting with the $SPY.
@@ -39,6 +39,6 @@ Trend holds as we bounce off of the 50MA. The overall trend here is bullish as w
 **Trend of Market: UP**<br/>
 **Our Bias: Bullish**<br/>
 
-Our investment team will continue to maintain our bullish stance on the market until circumstances change. For now, we hold all positions in our portfolio, and will continue to do so until we get a sell signal.
+Our investment team will continue to maintain our bullish stance on the market until circumstances change. For now, we hold all positions in our [portfolio](/portfolio/ "Portfolio"), and will continue to do so until we get a sell signal.
 
 Have a great weekend!

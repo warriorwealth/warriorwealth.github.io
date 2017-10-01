@@ -4,7 +4,7 @@
   <title><![CDATA[Warrior Wealth]]></title>
   <link href="http://warriorwealth.github.io/atom.xml" rel="self"/>
   <link href="http://warriorwealth.github.io/"/>
-  <updated>2017-09-30T18:25:07-07:00</updated>
+  <updated>2017-10-01T16:39:54-07:00</updated>
   <id>http://warriorwealth.github.io/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Semis Sector Update]]></title>
+    <link href="http://warriorwealth.github.io/blog/2017/10/01/semis-sector-update/"/>
+    <updated>2017-10-01T16:33:39-07:00</updated>
+    <id>http://warriorwealth.github.io/blog/2017/10/01/semis-sector-update</id>
+    <content type="html"><![CDATA[<p>The semiconductor sector $SMH has trended like a beast for over a year now, and in all time frames, the trend continues.</p>
+
+<p>Let&rsquo;s take a look at the daily chart of $SMH below:</p>
+
+<p><a href="http://warriorwealth.github.io/images/blog/20171001/smh_daily.png"><img src="http://warriorwealth.github.io/images/blog/20171001/smh_daily.png" alt="SMH Daily - 2017-10-01" /></a></p>
+
+<p>Any pullback here is a buy in our books. Consider getting long individual stocks in this sector, such as $AMAT or $MU.</p>
+
+<p><em>Disclaimer: <a href="http://warriorwealth.github.io/portfolio/" title="Portfolio">our investment team is currently long $MU as of time of writing</a>.</em></p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Weekend Update]]></title>
@@ -438,36 +455,6 @@ Stop (Conservative): $25.92</p>
 
 <p>Bias: Bullish (Weekly)<br/>
 Stop: $46.89</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[Long NTNX and AMD]]></title>
-    <link href="http://warriorwealth.github.io/blog/2017/09/20/long-ntnx-amd/"/>
-    <updated>2017-09-20T20:36:25-07:00</updated>
-    <id>http://warriorwealth.github.io/blog/2017/09/20/long-ntnx-amd</id>
-    <content type="html"><![CDATA[<p>Looking at a couple of tickers tonight to get long tomorrow.</p>
-
-<h2>$NTNX</h2>
-
-<p><a href="http://warriorwealth.github.io/images/blog/20170920/ntnx.png"><img src="http://warriorwealth.github.io/images/blog/20170920/ntnx.png" alt="NTNX - 2017-09-20" /></a></p>
-
-<ul>
-<li>High Short Interest (Short Percent of Float: 43.19%)</li>
-<li>200MA Recapture, potential trend change</li>
-<li>Cheap OOM call options</li>
-</ul>
-
-
-<h2>$AMD</h2>
-
-<p><a href="http://warriorwealth.github.io/images/blog/20170920/amd.png"><img src="http://warriorwealth.github.io/images/blog/20170920/amd.png" alt="AMD - 2017-09-20" /></a></p>
-
-<ul>
-<li>Relatively High Short Interest  (Short Percent of Float: 17.80%)</li>
-<li>200MA Hold, trending upwards</li>
-</ul>
-
 ]]></content>
   </entry>
   

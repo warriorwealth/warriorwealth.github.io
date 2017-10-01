@@ -20,4 +20,4 @@ Conservative traders would use the 200MA as a reference point when considering w
 
 Always consider the amount of risk you're willing to take in the position, before you think about potential profits. As long as you manage risk properly, you'll be able to stay with the trend.
 
-Disclaimer: we are currently long $BLUE, with a stop below the 200MA at $85.51 as of the time of writing.
+*Disclaimer: we are currently long $BLUE, with a stop below the 200MA at $85.51 as of the time of writing.*

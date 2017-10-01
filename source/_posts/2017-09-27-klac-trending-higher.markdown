@@ -18,4 +18,4 @@ Our trend trading system allows us to undoubtedly remain long stocks that create
 
 Those that are bullish this stock can enter in now, with a stop below the 200MA. However, sizing the number of shares here is critical, as we are quite far from the 200MA. Size at your own discretion.
 
-Disclaimer: we are currently long $KLAC as of time of writing.
+*Disclaimer: our investment team is currently long $KLAC as of time of writing.*

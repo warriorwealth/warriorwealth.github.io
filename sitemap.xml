@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
+<loc>http://warriorwealth.github.io/blog/2017/09/30/weekend-update/</loc>
+<lastmod>2017-09-30T16:58:41-07:00</lastmod>
+</url>
+<url>
 <loc>http://warriorwealth.github.io/blog/2017/09/30/exposure-to-china/</loc>
 <lastmod>2017-09-30T16:49:35-07:00</lastmod>
 </url>
@@ -132,5 +136,20 @@
 </url>
 <url>
 <loc>http://warriorwealth.github.io/blog/categories/china/</loc>
+</url>
+<url>
+<loc>http://warriorwealth.github.io/blog/categories/spy/</loc>
+</url>
+<url>
+<loc>http://warriorwealth.github.io/blog/categories/iwm/</loc>
+</url>
+<url>
+<loc>http://warriorwealth.github.io/blog/categories/qqq/</loc>
+</url>
+<url>
+<loc>http://warriorwealth.github.io/blog/categories/dia/</loc>
+</url>
+<url>
+<loc>http://warriorwealth.github.io/posts/2/</loc>
 </url>
 </urlset>

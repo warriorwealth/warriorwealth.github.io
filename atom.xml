@@ -4,7 +4,7 @@
   <title><![CDATA[Warrior Wealth]]></title>
   <link href="http://warriorwealth.github.io/atom.xml" rel="self"/>
   <link href="http://warriorwealth.github.io/"/>
-  <updated>2017-09-30T16:55:13-07:00</updated>
+  <updated>2017-09-30T17:15:28-07:00</updated>
   <id>http://warriorwealth.github.io/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,50 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Weekend Update]]></title>
+    <link href="http://warriorwealth.github.io/blog/2017/09/30/weekend-update/"/>
+    <updated>2017-09-30T16:58:41-07:00</updated>
+    <id>http://warriorwealth.github.io/blog/2017/09/30/weekend-update</id>
+    <content type="html"><![CDATA[<p>The market continues to make new highs. Let&rsquo;s take a look at the trend for all of the major market indices, starting with the $SPY.</p>
+
+<p><a href="http://warriorwealth.github.io/images/blog/20170930/spy_daily.png"><img src="http://warriorwealth.github.io/images/blog/20170930/spy_daily.png" alt="SPY Daily - 2017-09-30" /></a></p>
+
+<p>$SPY has continued to soar higher, maintaining its position well above all major moving averages. The trend here is clearly up.</p>
+
+<p>The same story is true for the Dow Jones:</p>
+
+<p><a href="http://warriorwealth.github.io/images/blog/20170930/dia_daily.png"><img src="http://warriorwealth.github.io/images/blog/20170930/dia_daily.png" alt="DIA Daily - 2017-09-30" /></a></p>
+
+<p>Here is the Nasdaq:</p>
+
+<p><a href="http://warriorwealth.github.io/images/blog/20170930/qqq_daily.png"><img src="http://warriorwealth.github.io/images/blog/20170930/qqq_daily.png" alt="QQQ Daily - 2017-09-30" /></a></p>
+
+<p>One can consider joining in on the trend here via $QLD - it&rsquo;s cheaper.</p>
+
+<p>Finally, we have the star of the show - $IWM:</p>
+
+<p><a href="http://warriorwealth.github.io/images/blog/20170930/iwm_daily.png"><img src="http://warriorwealth.github.io/images/blog/20170930/iwm_daily.png" alt="IWM Daily - 2017-09-30" /></a></p>
+
+<p>$IWM has a huge breakout and continues to climb higher. One can certainly go long this ETF, or can consider getting long specific small cap stocks, <a href="http://warriorwealth.github.io/blog/2017/09/30/watching-weight-watchers-wtw/" title="Long $WTW">such as $WTW</a>.</p>
+
+<p>Taking a look outside of the US and at China, here&rsquo;s $FXI, an ETF tracking the Chinese Market</p>
+
+<p><a href="http://warriorwealth.github.io/images/blog/20170930/fxi_daily.png"><img src="http://warriorwealth.github.io/images/blog/20170930/fxi_daily.png" alt="FXI Daily - 2017-09-30" /></a></p>
+
+<p>Trend holds as we bounce off of the 50MA. The overall trend here is bullish as well. One can look towards specific stocks in China to get long, <a href="http://warriorwealth.github.io/blog/2017/09/30/exposure-to-china/" title="Long $BZUN">such as $BZUN</a>.</p>
+
+<h3>Recap</h3>
+
+<p><strong>Trend of Market: UP</strong><br/>
+<strong>Our Bias: Bullish</strong><br/></p>
+
+<p>Our investment team will continue to maintain our bullish stance on the market until circumstances change. For now, we hold all positions in our portfolio, and will continue to do so until we get a sell signal.</p>
+
+<p>Have a great weekend!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Exposure to China - BZUN]]></title>
@@ -30,7 +74,7 @@
 
 <p>More conservative traders can enter in with half position size at current prices, and another half down at the 100MA (27.78), with the stop below the 100MA, at around $23.20.</p>
 
-<p>Disclaimer: our investment team is currently long $BZUN.</p>
+<p><em>Disclaimer: our investment team is currently long $BZUN.</em></p>
 ]]></content>
   </entry>
   
@@ -47,7 +91,7 @@
 
 <p>$WTW has come back down to tag the 50MA. This is actually quite a great location to join the trend. You know right away whether or not you&rsquo;ll be right. Consider placing the stop loss just below the 50MA, at about $40.36. More aggressive traders can size up bigger and use a tighter stop loss at $41.77.</p>
 
-<p>Disclaimer: our investment team is currently long $WTW.</p>
+<p><em>Disclaimer: our investment team is currently long $WTW.</em></p>
 ]]></content>
   </entry>
   
@@ -106,7 +150,7 @@
 
 <p>Always consider the amount of risk you&rsquo;re willing to take in the position, before you think about potential profits. As long as you manage risk properly, you&rsquo;ll be able to stay with the trend.</p>
 
-<p>Disclaimer: we are currently long $BLUE, with a stop below the 200MA at $85.51 as of the time of writing.</p>
+<p><em>Disclaimer: we are currently long $BLUE, with a stop below the 200MA at $85.51 as of the time of writing.</em></p>
 ]]></content>
   </entry>
   
@@ -127,7 +171,7 @@
 
 <p>Those that are bullish this stock can enter in now, with a stop below the 200MA. However, sizing the number of shares here is critical, as we are quite far from the 200MA. Size at your own discretion.</p>
 
-<p>Disclaimer: we are currently long $KLAC as of time of writing.</p>
+<p><em>Disclaimer: our investment team is currently long $KLAC as of time of writing.</em></p>
 ]]></content>
   </entry>
   
@@ -144,7 +188,7 @@
 
 <p>$FIT has breached the 200MA early in September. Breaches like this usually (but not always) signal a reversal and the start of a new trend higher. Without a doubt, $FIT is a long in our books. With proper stop loss placement just below the 200MA at 5.71, we will be looking to ride this stock until it closes below the 200MA. As always, should you get long, size your position according to your personal risk tolerance.</p>
 
-<p>Disclaimer: we are currently long $FIT as of time of writing.</p>
+<p><em>Disclaimer: our investment team is currently long $FIT as of time of writing.</em></p>
 ]]></content>
   </entry>
   

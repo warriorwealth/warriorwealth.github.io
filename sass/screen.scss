@@ -214,3 +214,9 @@
   color: #00b054;
   font-weight: bold;
 }
+
+.footer-end {
+  span::before {
+    font: 20px 'FontAwesome';
+  }
+}

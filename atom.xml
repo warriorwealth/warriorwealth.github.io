@@ -4,7 +4,7 @@
   <title><![CDATA[Warrior Wealth]]></title>
   <link href="http://warriorwealth.github.io/atom.xml" rel="self"/>
   <link href="http://warriorwealth.github.io/"/>
-  <updated>2017-10-04T10:47:52-07:00</updated>
+  <updated>2017-10-05T18:14:43-07:00</updated>
   <id>http://warriorwealth.github.io/</id>
   <author>
     <name><![CDATA[Ken Yu]]></name>
@@ -12,6 +12,23 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Upward Price Movement In PCLN]]></title>
+    <link href="http://warriorwealth.github.io/blog/2017/10/05/upward-price-movement-in-pcln/"/>
+    <updated>2017-10-05T17:54:58-07:00</updated>
+    <id>http://warriorwealth.github.io/blog/2017/10/05/upward-price-movement-in-pcln</id>
+    <content type="html"><![CDATA[<p>$PCLN has shown strength in the past few trading days, and is looking to trade higher.</p>
+
+<p>Let&rsquo;s take a look at the daily chart below:</p>
+
+<p><a href="http://warriorwealth.github.io/images/blog/20171006/pcln_daily.png"><img src="http://warriorwealth.github.io/images/blog/20171006/pcln_daily.png" alt="PCLN Daily - 2017-10-06" /></a></p>
+
+<p>The trend of this stock is clearly up. We&rsquo;ve just successfully recaptured the 100MA on strength. We&rsquo;re looking for the trend to continue.</p>
+
+<p>Stop will be placed below the 100MA, with enough buffer for potential noise.</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Time To Go SHOPping]]></title>
@@ -445,21 +462,6 @@
 <p>Here, the stock is still below major moving averages. A breach and close above the 100MA (yellow curve, currently at $17.94) would be a signal to go long this stock.</p>
 
 <p>For now, this stock is a sit-and-wait situation, and it is one we&rsquo;ll keep on our watchlist.</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[AXON Axed]]></title>
-    <link href="http://warriorwealth.github.io/blog/2017/09/26/axon-axed/"/>
-    <updated>2017-09-26T16:00:10-07:00</updated>
-    <id>http://warriorwealth.github.io/blog/2017/09/26/axon-axed</id>
-    <content type="html"><![CDATA[<p>$AXON has been of high interest today, due to failed drug trial. Noise aside, let&rsquo;s take a look at the daily chart, and what it means for the stock going forward.</p>
-
-<p><a href="http://warriorwealth.github.io/images/blog/20170926/axon_daily.png"><img src="http://warriorwealth.github.io/images/blog/20170926/axon_daily.png" alt="AXON Daily - 2017-09-26" /></a></p>
-
-<p>After a failed drug trial, the stock is trading significantly lower. At this point, people tend to ask, &ldquo;Should I buy at such a discounted price?&rdquo;</p>
-
-<p>The answer to that question, at least the answer for trend traders, is absolutely not. Trend followers love to be long stocks that are above the 200MA, and short stocks that are below the 200MA. If anything, trend traders would be looking to short this stock. However, given how far away from the 200MA it is, and given how recent the news was, we will not be shorting this stock. For those that are currently long this stock, understand that there is huge overhead supply above us, and if the stock were to ever turn around, it will take a while for prices to recover, regardless of the current situation.</p>
 ]]></content>
   </entry>
   

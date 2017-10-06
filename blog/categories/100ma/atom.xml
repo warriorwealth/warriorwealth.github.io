@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: 100ma | Warrior Wealth]]></title>
+  <link href="http://warriorwealth.github.io/blog/categories/100ma/atom.xml" rel="self"/>
+  <link href="http://warriorwealth.github.io/"/>
+  <updated>2017-10-05T18:14:43-07:00</updated>
+  <id>http://warriorwealth.github.io/</id>
+  <author>
+    <name><![CDATA[Ken Yu]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Upward Price Movement In PCLN]]></title>
+    <link href="http://warriorwealth.github.io/blog/2017/10/05/upward-price-movement-in-pcln/"/>
+    <updated>2017-10-05T17:54:58-07:00</updated>
+    <id>http://warriorwealth.github.io/blog/2017/10/05/upward-price-movement-in-pcln</id>
+    <content type="html"><![CDATA[<p>$PCLN has shown strength in the past few trading days, and is looking to trade higher.</p>
+
+<p>Let&rsquo;s take a look at the daily chart below:</p>
+
+<p><a href="/images/blog/20171006/pcln_daily.png"><img src="/images/blog/20171006/pcln_daily.png" alt="PCLN Daily - 2017-10-06" /></a></p>
+
+<p>The trend of this stock is clearly up. We&rsquo;ve just successfully recaptured the 100MA on strength. We&rsquo;re looking for the trend to continue.</p>
+
+<p>Stop will be placed below the 100MA, with enough buffer for potential noise.</p>
+]]></content>
+  </entry>
+  
+</feed>
